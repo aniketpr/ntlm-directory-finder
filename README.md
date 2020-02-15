@@ -20,4 +20,4 @@ Options:
   -c THREAD, --thread=THREAD
                         Add Thread
   -o OUTPUT, --output=OUTPUT
-                        Output Pat
+                        Output Path
