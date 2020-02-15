@@ -1,5 +1,5 @@
 Usage: ntlm-dirsearch.py [options]
-
+```
 Options:
   -h, --help            show this help message and exit
   -w WORDLIST, --wordlist=WORDLIST
@@ -14,3 +14,4 @@ Options:
                         Add Thread
   -o OUTPUT, --output=OUTPUT
                         Output Path
+                        ```
